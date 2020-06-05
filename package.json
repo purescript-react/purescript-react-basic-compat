@@ -1,0 +1,24 @@
+{
+  "name": "purescript-react-basic-compat",
+  "version": "0.0.0",
+  "description": "Dev deps for purescript-react-basic-compat",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lumihq/purescript-react-basic-compat.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lumihq/purescript-react-basic-compat/issues"
+  },
+  "homepage": "https://github.com/lumihq/purescript-react-basic-compat#readme",
+  "devDependencies": {
+    "bower": "^1.8.8",
+    "pulp": "^14.0.0",
+    "purescript": "^0.13.8"
+  },
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
